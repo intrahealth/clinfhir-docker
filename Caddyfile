@@ -4,4 +4,6 @@ git github.com/davidhay25/clinFHIR
 log stdout
 errors stdout
 
+tls off
+
 index launcher.html
