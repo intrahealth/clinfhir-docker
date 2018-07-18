@@ -1,6 +1,6 @@
 FROM abiosoft/caddy:latest
 
 
-COPY Caddyfile /etc/Caddyfile
+COPY ./Caddyfile /etc/Caddyfile
 
 
